@@ -6,5 +6,8 @@ springdoc:
     operations-sorter: method
     tags-sorter: alpha
 
+ACCOUNT_SID: ${TWILIO_ACCOUNT_SID}
+AUTH_TOKEN: ${TWILIO_AUTH_TOKEN}
+
 appDescription: "Pragma Powerup"
 appVersion: "1.0.0"
