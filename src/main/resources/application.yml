@@ -1,0 +1,10 @@
+server:
+  port: 9002
+
+springdoc:
+  swagger-ui:
+    operations-sorter: method
+    tags-sorter: alpha
+
+appDescription: "Pragma Powerup"
+appVersion: "1.0.0"
